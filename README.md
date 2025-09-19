@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
-# Welcome to ○팀
+# Welcome to 17팀
 
 ## 1️⃣ 팀원 소개
 
@@ -8,7 +8,6 @@
 | **이하늘** | 소프트웨어전공 | 인공지능, IT |
 | **이천홍** | 소프트웨어전공 | 게임개발, 모바일앱 |
 | **류현준** | 소프트웨어전공 | UX/UI, 프론트엔드 |
-| **이학준** | 소프트웨어전공 | UX/UI, 모바일 앱, 창업 |
 
 유레카프로젝트 프로젝트 팀 생성을 축하합니다.
 유레카프로젝트 프로젝트 팀의 제목과 팀원의 이름 및 관심사를 변경하세요.
