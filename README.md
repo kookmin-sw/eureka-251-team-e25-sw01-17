@@ -1,4 +1,4 @@
-<img width="844" height="1186" alt="image" src="https://github.com/user-attachments/assets/af0a0050-d833-4e42-9ccb-595e0f80303e" />[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
 # Welcome to 17팀
 
 ## 1️⃣ 팀원 소개
@@ -52,7 +52,7 @@
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
-
+<img width="844" height="1186" alt="image" src="https://github.com/user-attachments/assets/af0a0050-d833-4e42-9ccb-595e0f80303e" />
 ***
 
 ## 4️⃣ 인상 깊은 활동
