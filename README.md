@@ -52,7 +52,7 @@
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
-<img width="844" height="1186" alt="image" src="https://github.com/user-attachments/assets/af0a0050-d833-4e42-9ccb-595e0f80303e" />
+<img width="844" height="1186" src="https://drive.google.com/file/d/1itEosydntnszYtxmFEunzIcwk14101ka/view?usp=sharing"/>
 ***
 
 ## 4️⃣ 인상 깊은 활동
