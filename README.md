@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
+<img width="844" height="1186" alt="image" src="https://github.com/user-attachments/assets/af0a0050-d833-4e42-9ccb-595e0f80303e" />[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
 # Welcome to 17팀
 
 ## 1️⃣ 팀원 소개
@@ -114,4 +114,6 @@ Syntax highlighted code block
 ### Support or Contact
 
 readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+
+유레카 발표자료: https://drive.google.com/file/d/1uzzGY1ToMKXBMzxbfWqC8tYQ4aKm614b/view?usp=sharing
 
