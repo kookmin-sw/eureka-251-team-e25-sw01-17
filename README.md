@@ -53,6 +53,7 @@
 <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
 <img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
 <img width="844" height="1186" src="https://drive.google.com/uc?export=view&id=1itEosydntnszYtxmFEunzIcwk14101ka"/>
+<img src="https://drive.google.com/file/d/12sL9Dxi9m2uF_qp1yRhJJO-wmuK81VlR/view?usp=sharing">
 ***
 
 ## 4️⃣ 인상 깊은 활동
